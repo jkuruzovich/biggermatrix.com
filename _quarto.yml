@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!README.md"
+    - "!reardme.md"
+
+website:
+  title: "Jason Kuruzovich"
+  description: "Associate Professor of Business Analytics at RPI | AI, Digital Platforms, Entrepreneurship"
+  site-url: https://biggermatrix.com
+  favicon: static/logos/RPI_Logo_Binary_1.png
+
+  navbar:
+    logo: static/logos/RPI_Logo_Binary_1.png
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: substack
+        href: https://biggermatrix.substack.com
+        aria-label: Substack
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jasonkuruzovich/
+        aria-label: LinkedIn
+
+  page-footer:
+    left: |
+      &copy; 2025 Jason Kuruzovich
+    center: |
+      [Lally School of Management](https://lallyschool.rpi.edu/) | [Rensselaer Polytechnic Institute](https://rpi.edu/)
+    right: |
+      Built with [Quarto](https://quarto.org/)
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+    grid:
+      sidebar-width: 0px
+      body-width: 1200px
+      margin-width: 200px

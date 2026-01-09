@@ -1,0 +1,454 @@
+/*-- scss:defaults --*/
+
+// Colors - Professional academic palette
+$primary: #1a365d;        // Deep navy
+$secondary: #2c5282;      // Lighter navy
+$accent: #c53030;         // RPI red accent
+$light-bg: #f7fafc;       // Light gray background
+$text-dark: #1a202c;      // Near black for text
+$text-muted: #4a5568;     // Gray for secondary text
+$border-color: #e2e8f0;   // Light border
+
+// Typography
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-monospace: "JetBrains Mono", "Fira Code", Consolas, monospace;
+$headings-font-weight: 600;
+$body-color: $text-dark;
+
+// Spacing
+$spacer: 1rem;
+
+/*-- scss:rules --*/
+
+// Import Inter font
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+// Global styles
+body {
+  font-family: $font-family-sans-serif;
+  line-height: 1.7;
+  color: $text-dark;
+}
+
+// Navigation
+.navbar {
+  padding: 1rem 2rem;
+  border-bottom: 1px solid $border-color;
+  background: white !important;
+
+  .navbar-brand {
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: $primary !important;
+  }
+
+  .nav-link {
+    color: $text-muted !important;
+    font-weight: 500;
+    padding: 0.5rem 1rem !important;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: $primary !important;
+    }
+  }
+
+  .navbar-nav .nav-link.active {
+    color: $primary !important;
+  }
+}
+
+// Hero section
+.hero-section {
+  padding: 5rem 0;
+  background: linear-gradient(135deg, $light-bg 0%, white 100%);
+
+  .hero-title {
+    font-size: 3rem;
+    font-weight: 700;
+    color: $primary;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+  }
+
+  .hero-subtitle {
+    font-size: 1.5rem;
+    color: $secondary;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+  }
+
+  .hero-affiliation {
+    font-size: 1.1rem;
+    color: $text-muted;
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-description {
+    font-size: 1.15rem;
+    color: $text-muted;
+    line-height: 1.8;
+    max-width: 700px;
+  }
+}
+
+// Featured cards
+.featured-section {
+  padding: 4rem 0;
+  background: white;
+
+  .section-title {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: $primary;
+    margin-bottom: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid $accent;
+    display: inline-block;
+  }
+}
+
+.featured-card {
+  background: white;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  padding: 1.5rem;
+  height: 100%;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 40px rgba(0,0,0,0.08);
+  }
+
+  .card-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: $accent;
+    margin-bottom: 0.5rem;
+  }
+
+  .card-title {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: $primary;
+    margin-bottom: 0.75rem;
+    line-height: 1.4;
+  }
+
+  .card-description {
+    font-size: 0.95rem;
+    color: $text-muted;
+    line-height: 1.6;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+// Page content
+.page-content {
+  padding: 3rem 0;
+
+  h1 {
+    font-size: 2.25rem;
+    color: $primary;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    color: $primary;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+    color: $secondary;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    font-weight: 600;
+  }
+}
+
+// Publication list
+.publication {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  .pub-title {
+    font-weight: 600;
+    color: $text-dark;
+    margin-bottom: 0.25rem;
+  }
+
+  .pub-authors {
+    font-size: 0.95rem;
+    color: $text-muted;
+    margin-bottom: 0.25rem;
+  }
+
+  .pub-venue {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: $text-muted;
+  }
+
+  .pub-award {
+    display: inline-block;
+    background: linear-gradient(135deg, #faf089 0%, #f6e05e 100%);
+    color: #744210;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    margin-top: 0.5rem;
+  }
+}
+
+// Course cards
+.course-card {
+  background: $light-bg;
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+
+  .course-code {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: $accent;
+    margin-bottom: 0.25rem;
+  }
+
+  .course-title {
+    font-weight: 600;
+    color: $primary;
+    margin-bottom: 0.5rem;
+  }
+
+  .course-description {
+    font-size: 0.9rem;
+    color: $text-muted;
+  }
+}
+
+// Buttons
+.btn-primary {
+  background: $primary;
+  border-color: $primary;
+  padding: 0.75rem 1.5rem;
+  font-weight: 500;
+  border-radius: 6px;
+
+  &:hover {
+    background: darken($primary, 10%);
+    border-color: darken($primary, 10%);
+  }
+}
+
+.btn-outline {
+  border: 2px solid $primary;
+  color: $primary;
+  background: transparent;
+  padding: 0.75rem 1.5rem;
+  font-weight: 500;
+  border-radius: 6px;
+
+  &:hover {
+    background: $primary;
+    color: white;
+  }
+}
+
+// Footer
+.page-footer {
+  background: $light-bg;
+  border-top: 1px solid $border-color;
+  padding: 2rem 0;
+  font-size: 0.9rem;
+  color: $text-muted;
+
+  a {
+    color: $primary;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// Research areas
+.research-area {
+  background: white;
+  border: 1px solid $border-color;
+  border-left: 4px solid $primary;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 0 8px 8px 0;
+
+  h3 {
+    margin-top: 0;
+    color: $primary;
+  }
+}
+
+// Contact info
+.contact-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+
+  .contact-icon {
+    font-size: 1.5rem;
+    color: $primary;
+    margin-right: 1rem;
+    width: 40px;
+    text-align: center;
+  }
+
+  .contact-details {
+    h4 {
+      margin: 0 0 0.25rem 0;
+      font-size: 1rem;
+      font-weight: 600;
+      color: $primary;
+    }
+
+    p, a {
+      margin: 0;
+      color: $text-muted;
+      font-size: 0.95rem;
+    }
+
+    a:hover {
+      color: $primary;
+    }
+  }
+}
+
+// PDF embed
+.pdf-container {
+  width: 100%;
+  height: 800px;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 3rem 1rem;
+
+    .hero-title {
+      font-size: 2rem;
+    }
+
+    .hero-subtitle {
+      font-size: 1.25rem;
+    }
+  }
+
+  .featured-section {
+    padding: 2rem 1rem;
+  }
+
+  .navbar {
+    padding: 0.75rem 1rem;
+  }
+}
+
+// Quarto overrides
+.quarto-title {
+  display: none;
+}
+
+main.content {
+  padding-top: 0;
+}
+
+.quarto-title-meta {
+  display: none;
+}
+
+// Grid layout for cards
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+// Award badge
+.award-badge {
+  display: inline-flex;
+  align-items: center;
+  background: linear-gradient(135deg, #faf089 0%, #f6e05e 100%);
+  color: #744210;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.35rem 0.75rem;
+  border-radius: 20px;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+// Two column layout
+.two-column {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 3rem;
+  align-items: start;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}
+
+.profile-image {
+  width: 100%;
+  max-width: 280px;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+// Link styles
+a {
+  color: $primary;
+
+  &:hover {
+    color: $secondary;
+  }
+}
+
+// Lists
+ul, ol {
+  padding-left: 1.5rem;
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+}
+
+// Blockquotes
+blockquote {
+  border-left: 4px solid $primary;
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: $text-muted;
+}

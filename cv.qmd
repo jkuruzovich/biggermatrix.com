@@ -1,0 +1,57 @@
+---
+title: "Curriculum Vitae"
+pagetitle: "CV | Jason Kuruzovich"
+format:
+  html:
+    toc: false
+---
+
+::: {.page-content}
+
+## Download
+
+[Download Full CV (PDF)](/static/1_cv_kuruzovich_2025_12_v3.pdf){.btn .btn-primary style="margin-bottom: 2rem;"}
+
+---
+
+## Quick Reference
+
+### Current Positions
+
+**Rensselaer Polytechnic Institute**
+
+- **Area Head**, Information Technology and Web Science (July 2025 -- Present)
+- **Area Head**, Information Systems, Operations, Supply Chain, Marketing, Business Economics, and Business Analytics (July 2024 -- Present)
+- **Associate Professor of Business Analytics** (Tenured), Lally School of Management (June 2013 -- Present)
+- **Principal Investigator**, NSF I-Corps Program at RPI (February 2016 -- Present)
+
+### Education
+
+- **Ph.D., Information Systems** -- University of Maryland, Robert H. Smith School of Business, 2006
+- **B.S., Chemical Engineering** *(Cum Laude)* -- Lafayette College, 1996
+
+### Selected Honors & Awards
+
+- 2025 Personnel Psychology Best Paper Award
+- 2025 SIOP Jeanneret Award for Excellence in the Study of Individual or Group Assessment
+- 2025 Top 10 Most-Cited Papers in Personnel Psychology (2023)
+- 2023 CIST Best Paper Award
+- 2018 School of Management Best Paper Award
+- 2016 Upstate Venture Connect Campus Connector Award
+- 2014 Albany's 40 Under 40
+- 2009 ISS/ISR Best Published Paper Award
+- 2008 RPI Dean's "Complete Educator" Award
+
+### Publications Summary
+
+- **19 peer-reviewed journal articles** in outlets including Management Science, Information Systems Research, MIS Quarterly, Journal of Marketing, Journal of Applied Psychology, and Personnel Psychology
+- **13+ conference proceedings** at major venues (HICSS, AMCIS, ECIS, CIST)
+- **5 computer science conference papers** at IEEE and ACM venues
+
+### Active Grants
+
+- NSF I-Corps Partner Grant  (2023)
+- RPI Incubator, Empire State Development  (2023)
+
+
+:::

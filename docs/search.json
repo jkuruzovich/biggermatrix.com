@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Over the past two decades at RPI, I’ve taught an unusually broad range of topics—database design, quantitative methods, internet marketing, entrepreneurship, applied machine learning, and applied projects. My teaching philosophy adapts to the type of course, but the central theme remains constant: fundamental shifts in the economics of data creation, storage, and use are transforming individuals, organizations, and markets.\n\n\n\n\nMGMT6841\n\n\nPracticum in Management (MBA Project Course)\n\n\nApplied project course where MBA students work on real data science and analytics challenges with industry partners. Students develop compelling professional narratives through hands-on problem-solving.\n\n\n\n\nMGMT6445 / MGMT6790\n\n\nBusiness Analytics Capstone\n\n\nCapstone experience for MS Business Analytics students, partnering with companies to address complex, data-driven problems. Each semester features 4-8 projects from a diverse mix of established firms and startups.\n\n\n\n\nMGMT4530/6630\n\n\nStarting a New Venture\n\n\nEntrepreneurship course covering opportunity identification, customer discovery, business model development, and go-to-market strategy for technology-based ventures.\n\n\n\n\nITWS4500\n\n\nAgentic AI and Web Systems Development (Spring 2026)\n\n\nNew course introducing students to cutting-edge approaches in cloud deployment and agentic AI development, ensuring ITWS coursework remains current with modern techniques.\n\n\n\n\n\n\n\nMGMT4190/6560\n\n\nIntroduction to Machine Learning Applications\n\n\nDeveloped core course taking students from Python basics through deep learning applications. Now taught by multiple instructors across Business Analytics, Supply Chain, and Finance programs. Course materials available at introml.analyticsdojo.com.\n\n\n\n\nITWS\n\n\nQuantum-Inspired Optimization (Fall 2025)\n\n\nOne-credit pilot course developed in collaboration with BQP, engaging students in exploring quantum-inspired optimization. Materials at quantum.analyticsdojo.com."
+  },
+  {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "MGMT6841\n\n\nPracticum in Management (MBA Project Course)\n\n\nApplied project course where MBA students work on real data science and analytics challenges with industry partners. Students develop compelling professional narratives through hands-on problem-solving.\n\n\n\n\nMGMT6445 / MGMT6790\n\n\nBusiness Analytics Capstone\n\n\nCapstone experience for MS Business Analytics students, partnering with companies to address complex, data-driven problems. Each semester features 4-8 projects from a diverse mix of established firms and startups.\n\n\n\n\nMGMT4530/6630\n\n\nStarting a New Venture\n\n\nEntrepreneurship course covering opportunity identification, customer discovery, business model development, and go-to-market strategy for technology-based ventures.\n\n\n\n\nITWS4500\n\n\nAgentic AI and Web Systems Development (Spring 2026)\n\n\nNew course introducing students to cutting-edge approaches in cloud deployment and agentic AI development, ensuring ITWS coursework remains current with modern techniques."
+  },
+  {
+    "objectID": "teaching.html#past-courses",
+    "href": "teaching.html#past-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "MGMT4190/6560\n\n\nIntroduction to Machine Learning Applications\n\n\nDeveloped core course taking students from Python basics through deep learning applications. Now taught by multiple instructors across Business Analytics, Supply Chain, and Finance programs. Course materials available at introml.analyticsdojo.com.\n\n\n\n\nITWS\n\n\nQuantum-Inspired Optimization (Fall 2025)\n\n\nOne-credit pilot course developed in collaboration with BQP, engaging students in exploring quantum-inspired optimization. Materials at quantum.analyticsdojo.com."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "ChatMFG addresses a critical gap in AI adoption for manufacturers who recognize the transformative potential of large language models but cannot adopt cloud-based solutions due to data security and intellectual property concerns.\nThe platform enables manufacturers to deploy advanced LLM capabilities entirely within their own secure environments, featuring manufacturing-optimized models, retrieval-augmented generation (RAG) for proprietary documents, and human-in-the-loop fine-tuning.\nDeveloped in collaboration with RPI’s Center for Smart Convergent Manufacturing Systems (CSCMS) and industry partner Sono-Tek Corporation.\n\n\n\n\nStartup Tech Valley is a regional initiative fostering the entrepreneurship and innovation ecosystem in New York’s Tech Valley region. The program connects startups with resources, mentors, investors, and economic development organizations to accelerate growth and commercialization.\n\n\n\n\nThrough my teaching and research, I maintain active collaborations with companies across multiple sectors:\nAnalytics & AI – Enterprise Partners: Amazon, Credit Suisse, Invesco, GlobalFoundries, Johnson & Johnson, CDPHP\nStartups – Emerging Technology: Velan Studios, ACV Auctions, P1ston, BQP, Mind Genomics, Defacto Global\nResearch Centers – Academic Partnerships: Center for Smart Convergent Manufacturing Systems (CSCMS), NYS Center of Excellence in Data Science\nThese partnerships generate unique datasets, theoretically significant research questions, and meaningful student experiences through capstone projects and applied research.\n\n\n\n\n\n\nFounded and served as CEO of getOUT4, a technology startup focused on social coordination and local event discovery. The experience informed my research on entrepreneurship ecosystems and my approach to teaching entrepreneurship.\n\n\n\nOpen-source educational platform providing Jupyter-based learning materials for analytics and data science. Materials are used in multiple courses and have been adopted by other institutions.\n\nintroml.analyticsdojo.com – Machine Learning course materials\nquantum.analyticsdojo.com – Quantum optimization materials\n\n\n\n\n\n\nFrom 2013-2023, I directed the Severino Center for Technological Entrepreneurship at RPI, where I:\n\nLed programs supporting student ventures and early-stage startups\nDeveloped Startup Tech Valley to foster the regional innovation ecosystem\nManaged RPI’s Change the World Challenge business plan competition\nBuilt partnerships with regional accelerators, investors, and economic development organizations\n\nThis practical engagement continues through my role in the NSF I-Corps Program and the NY State Incubator Grant."
+  },
+  {
+    "objectID": "projects.html#chatmfg-secure-llms-for-manufacturing",
+    "href": "projects.html#chatmfg-secure-llms-for-manufacturing",
+    "title": "Projects",
+    "section": "",
+    "text": "ChatMFG addresses a critical gap in AI adoption for manufacturers who recognize the transformative potential of large language models but cannot adopt cloud-based solutions due to data security and intellectual property concerns.\nThe platform enables manufacturers to deploy advanced LLM capabilities entirely within their own secure environments, featuring manufacturing-optimized models, retrieval-augmented generation (RAG) for proprietary documents, and human-in-the-loop fine-tuning.\nDeveloped in collaboration with RPI’s Center for Smart Convergent Manufacturing Systems (CSCMS) and industry partner Sono-Tek Corporation."
+  },
+  {
+    "objectID": "projects.html#startup-tech-valley",
+    "href": "projects.html#startup-tech-valley",
+    "title": "Projects",
+    "section": "",
+    "text": "Startup Tech Valley is a regional initiative fostering the entrepreneurship and innovation ecosystem in New York’s Tech Valley region. The program connects startups with resources, mentors, investors, and economic development organizations to accelerate growth and commercialization."
+  },
+  {
+    "objectID": "projects.html#industry-collaborations",
+    "href": "projects.html#industry-collaborations",
+    "title": "Projects",
+    "section": "",
+    "text": "Through my teaching and research, I maintain active collaborations with companies across multiple sectors:\nAnalytics & AI – Enterprise Partners: Amazon, Credit Suisse, Invesco, GlobalFoundries, Johnson & Johnson, CDPHP\nStartups – Emerging Technology: Velan Studios, ACV Auctions, P1ston, BQP, Mind Genomics, Defacto Global\nResearch Centers – Academic Partnerships: Center for Smart Convergent Manufacturing Systems (CSCMS), NYS Center of Excellence in Data Science\nThese partnerships generate unique datasets, theoretically significant research questions, and meaningful student experiences through capstone projects and applied research."
+  },
+  {
+    "objectID": "projects.html#past-ventures",
+    "href": "projects.html#past-ventures",
+    "title": "Projects",
+    "section": "",
+    "text": "Founded and served as CEO of getOUT4, a technology startup focused on social coordination and local event discovery. The experience informed my research on entrepreneurship ecosystems and my approach to teaching entrepreneurship.\n\n\n\nOpen-source educational platform providing Jupyter-based learning materials for analytics and data science. Materials are used in multiple courses and have been adopted by other institutions.\n\nintroml.analyticsdojo.com – Machine Learning course materials\nquantum.analyticsdojo.com – Quantum optimization materials"
+  },
+  {
+    "objectID": "projects.html#severino-center-past",
+    "href": "projects.html#severino-center-past",
+    "title": "Projects",
+    "section": "",
+    "text": "From 2013-2023, I directed the Severino Center for Technological Entrepreneurship at RPI, where I:\n\nLed programs supporting student ventures and early-stage startups\nDeveloped Startup Tech Valley to foster the regional innovation ecosystem\nManaged RPI’s Change the World Challenge business plan competition\nBuilt partnerships with regional accelerators, investors, and economic development organizations\n\nThis practical engagement continues through my role in the NSF I-Corps Program and the NY State Incubator Grant."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download Full CV (PDF)\n\n\n\n\n\n\nRensselaer Polytechnic Institute\n\nArea Head, Information Technology and Web Science (July 2025 – Present)\nArea Head, Information Systems, Operations, Supply Chain, Marketing, Business Economics, and Business Analytics (July 2024 – Present)\nAssociate Professor of Business Analytics (Tenured), Lally School of Management (June 2013 – Present)\nPrincipal Investigator, NSF I-Corps Program at RPI (February 2016 – Present)\n\n\n\n\n\nPh.D., Information Systems – University of Maryland, Robert H. Smith School of Business, 2006\nB.S., Chemical Engineering (Cum Laude) – Lafayette College, 1996\n\n\n\n\n\n2025 Personnel Psychology Best Paper Award\n2025 SIOP Jeanneret Award for Excellence in the Study of Individual or Group Assessment\n2025 Top 10 Most-Cited Papers in Personnel Psychology (2023)\n2023 CIST Best Paper Award\n2018 School of Management Best Paper Award\n2016 Upstate Venture Connect Campus Connector Award\n2014 Albany’s 40 Under 40\n2009 ISS/ISR Best Published Paper Award\n2008 RPI Dean’s “Complete Educator” Award\n\n\n\n\n\n19 peer-reviewed journal articles in outlets including Management Science, Information Systems Research, MIS Quarterly, Journal of Marketing, Journal of Applied Psychology, and Personnel Psychology\n13+ conference proceedings at major venues (HICSS, AMCIS, ECIS, CIST)\n5 computer science conference papers at IEEE and ACM venues\n\n\n\n\n\nNSF I-Corps Partner Grant (2023)\nRPI Incubator, Empire State Development (2023)"
+  },
+  {
+    "objectID": "cv.html#download",
+    "href": "cv.html#download",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download Full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#quick-reference",
+    "href": "cv.html#quick-reference",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Rensselaer Polytechnic Institute\n\nArea Head, Information Technology and Web Science (July 2025 – Present)\nArea Head, Information Systems, Operations, Supply Chain, Marketing, Business Economics, and Business Analytics (July 2024 – Present)\nAssociate Professor of Business Analytics (Tenured), Lally School of Management (June 2013 – Present)\nPrincipal Investigator, NSF I-Corps Program at RPI (February 2016 – Present)\n\n\n\n\n\nPh.D., Information Systems – University of Maryland, Robert H. Smith School of Business, 2006\nB.S., Chemical Engineering (Cum Laude) – Lafayette College, 1996\n\n\n\n\n\n2025 Personnel Psychology Best Paper Award\n2025 SIOP Jeanneret Award for Excellence in the Study of Individual or Group Assessment\n2025 Top 10 Most-Cited Papers in Personnel Psychology (2023)\n2023 CIST Best Paper Award\n2018 School of Management Best Paper Award\n2016 Upstate Venture Connect Campus Connector Award\n2014 Albany’s 40 Under 40\n2009 ISS/ISR Best Published Paper Award\n2008 RPI Dean’s “Complete Educator” Award\n\n\n\n\n\n19 peer-reviewed journal articles in outlets including Management Science, Information Systems Research, MIS Quarterly, Journal of Marketing, Journal of Applied Psychology, and Personnel Psychology\n13+ conference proceedings at major venues (HICSS, AMCIS, ECIS, CIST)\n5 computer science conference papers at IEEE and ACM venues\n\n\n\n\n\nNSF I-Corps Partner Grant (2023)\nRPI Incubator, Empire State Development (2023)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Jason Kuruzovich is an Associate Professor of Business Analytics at the Lally School of Management at Rensselaer Polytechnic Institute (RPI), where his research explores the intersection of information systems, computer science, and the practical challenges businesses face in a data-driven world. His work examines how individuals and organizations derive value from information systems, artificial intelligence (AI), and digital transformation, with a particular emphasis on the societal and organizational implications of algorithmic decision-making.\nProfessor Kuruzovich’s research has been published in leading journals across multiple disciplines, including Management Science, Information Systems Research, MIS Quarterly, the Journal of Marketing, and the Journal of Applied Psychology. His studies have addressed topics such as online platforms and digital marketplaces, algorithmic bias in AI-based decision systems, and the evolving dynamics of innovation and entrepreneurship ecosystems.\n\n\n\nRecent work focuses on applied artificial intelligence and fairness in machine learning, including collaborations with technology and analytics firms. His coauthored paper, “Reducing Subgroup Differences in Personnel Selection Through the Application of Machine Learning,” received the 2025 Personnel Psychology Best Paper Award, the SIOP Jeanneret Award for Excellence in the Study of Individual or Group Assessment, and recognition as one of the ten most-cited papers in Personnel Psychology in 2023.\nAnother study, “Whither Bias Goes, I Will Go: An Integrative, Systematic Review of Algorithmic Bias Mitigation,” published in the Journal of Applied Psychology, offers a comprehensive framework for understanding algorithmic fairness across organizational and computational contexts.\n\n\n\nHis ongoing research in entrepreneurship and innovation builds on his decade-long leadership of the Severino Center for Technological Entrepreneurship, where he helped foster the startup ecosystem in New York’s Capital Region through programs such as Startup Tech Valley and RPI’s Change the World Challenge. This practical engagement continues through his role as Principal Investigator for the NSF I-Corps Program at RPI and the New York State Incubator Grant, initiatives that help early-stage entrepreneurs commercialize research-based innovations and bridge academic insight with startup success.\n\n\n\nIn teaching, Professor Kuruzovich emphasizes applied analytics and experiential learning. His courses—ranging from Introduction to Machine Learning Applications to the MBA Practicum in Management—integrate technical skills with strategic insight, guiding students through complex, data-driven problems faced by real companies. These courses provide students with hands-on experience addressing industry challenges through rigorous analysis and innovative solutions.\nHis pedagogical approach combines theory, computation, and storytelling to help students craft professional narratives grounded in applied success.\n\n\n\nOver nearly two decades at RPI, Professor Kuruzovich has taught at the undergraduate, graduate, and executive levels, led multiple academic programs, and mentored numerous Ph.D. students who have gone on to successful academic and industry careers.\nCurrent Administrative Roles:\n\nArea Head, Information Technology and Web Science (July 2025 – Present)\nArea Head, Information Systems, Operations, Supply Chain, Marketing, Business Economics, and Business Analytics, Lally School of Management (July 2024 – Present)\nPrincipal Investigator, NSF I-Corps Program at RPI (February 2016 – Present)\n\nPrevious Leadership:\n\nDirector, Lally School Ph.D. Program (July 2022 – July 2023)\nDirector, Severino Center for Technological Entrepreneurship (July 2013 – July 2023)\n\n\n\n\nPh.D., Information Systems University of Maryland, Robert H. Smith School of Business, 2006\nB.S., Chemical Engineering (Cum Laude) Lafayette College, 1996\n\n\n\nBefore entering academia, Professor Kuruzovich worked in industry as a chemical engineer, SAP implementation consultant, and business systems analyst at companies including Air Products and Chemicals, Johnson & Johnson, and Streamline.com. He also founded getOUT4 and served as a consulting data scientist with Defacto Global Inc. and Mind Genomics Inc.\n\n\n\nFor a complete list of publications, presentations, and grants, please download my CV."
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "About",
+    "section": "",
+    "text": "Jason Kuruzovich is an Associate Professor of Business Analytics at the Lally School of Management at Rensselaer Polytechnic Institute (RPI), where his research explores the intersection of information systems, computer science, and the practical challenges businesses face in a data-driven world. His work examines how individuals and organizations derive value from information systems, artificial intelligence (AI), and digital transformation, with a particular emphasis on the societal and organizational implications of algorithmic decision-making.\nProfessor Kuruzovich’s research has been published in leading journals across multiple disciplines, including Management Science, Information Systems Research, MIS Quarterly, the Journal of Marketing, and the Journal of Applied Psychology. His studies have addressed topics such as online platforms and digital marketplaces, algorithmic bias in AI-based decision systems, and the evolving dynamics of innovation and entrepreneurship ecosystems."
+  },
+  {
+    "objectID": "about.html#current-focus",
+    "href": "about.html#current-focus",
+    "title": "About",
+    "section": "",
+    "text": "Recent work focuses on applied artificial intelligence and fairness in machine learning, including collaborations with technology and analytics firms. His coauthored paper, “Reducing Subgroup Differences in Personnel Selection Through the Application of Machine Learning,” received the 2025 Personnel Psychology Best Paper Award, the SIOP Jeanneret Award for Excellence in the Study of Individual or Group Assessment, and recognition as one of the ten most-cited papers in Personnel Psychology in 2023.\nAnother study, “Whither Bias Goes, I Will Go: An Integrative, Systematic Review of Algorithmic Bias Mitigation,” published in the Journal of Applied Psychology, offers a comprehensive framework for understanding algorithmic fairness across organizational and computational contexts."
+  },
+  {
+    "objectID": "about.html#entrepreneurship-innovation",
+    "href": "about.html#entrepreneurship-innovation",
+    "title": "About",
+    "section": "",
+    "text": "His ongoing research in entrepreneurship and innovation builds on his decade-long leadership of the Severino Center for Technological Entrepreneurship, where he helped foster the startup ecosystem in New York’s Capital Region through programs such as Startup Tech Valley and RPI’s Change the World Challenge. This practical engagement continues through his role as Principal Investigator for the NSF I-Corps Program at RPI and the New York State Incubator Grant, initiatives that help early-stage entrepreneurs commercialize research-based innovations and bridge academic insight with startup success."
+  },
+  {
+    "objectID": "about.html#teaching-philosophy",
+    "href": "about.html#teaching-philosophy",
+    "title": "About",
+    "section": "",
+    "text": "In teaching, Professor Kuruzovich emphasizes applied analytics and experiential learning. His courses—ranging from Introduction to Machine Learning Applications to the MBA Practicum in Management—integrate technical skills with strategic insight, guiding students through complex, data-driven problems faced by real companies. These courses provide students with hands-on experience addressing industry challenges through rigorous analysis and innovative solutions.\nHis pedagogical approach combines theory, computation, and storytelling to help students craft professional narratives grounded in applied success."
+  },
+  {
+    "objectID": "about.html#leadership-service",
+    "href": "about.html#leadership-service",
+    "title": "About",
+    "section": "",
+    "text": "Over nearly two decades at RPI, Professor Kuruzovich has taught at the undergraduate, graduate, and executive levels, led multiple academic programs, and mentored numerous Ph.D. students who have gone on to successful academic and industry careers.\nCurrent Administrative Roles:\n\nArea Head, Information Technology and Web Science (July 2025 – Present)\nArea Head, Information Systems, Operations, Supply Chain, Marketing, Business Economics, and Business Analytics, Lally School of Management (July 2024 – Present)\nPrincipal Investigator, NSF I-Corps Program at RPI (February 2016 – Present)\n\nPrevious Leadership:\n\nDirector, Lally School Ph.D. Program (July 2022 – July 2023)\nDirector, Severino Center for Technological Entrepreneurship (July 2013 – July 2023)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "Ph.D., Information Systems University of Maryland, Robert H. Smith School of Business, 2006\nB.S., Chemical Engineering (Cum Laude) Lafayette College, 1996"
+  },
+  {
+    "objectID": "about.html#industry-experience",
+    "href": "about.html#industry-experience",
+    "title": "About",
+    "section": "",
+    "text": "Before entering academia, Professor Kuruzovich worked in industry as a chemical engineer, SAP implementation consultant, and business systems analyst at companies including Air Products and Chemicals, Johnson & Johnson, and Streamline.com. He also founded getOUT4 and served as a consulting data scientist with Defacto Global Inc. and Mind Genomics Inc."
+  },
+  {
+    "objectID": "about.html#full-cv",
+    "href": "about.html#full-cv",
+    "title": "About",
+    "section": "",
+    "text": "For a complete list of publications, presentations, and grants, please download my CV."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I welcome inquiries about research collaborations, speaking opportunities, student advising, and industry partnerships.\nEmail: kuruzj at rpi.edu\nOffice: Pittsburgh Building, Room 2206 Lally School of Management Rensselaer Polytechnic Institute 110 8th Street Troy, NY 12180\n\n\n\n\n\nBigger Matrix on Substack – Thoughts on AI, analytics, entrepreneurship, and the intersection of technology and business.\nLinkedIn – Connect professionally and stay updated on research, teaching, and industry activities.\n\n\n\n\n\nProspective Ph.D. Students: I actively collaborate with doctoral students interested in research at the intersection of AI, digital platforms, and organizational outcomes. Please apply to the Lally School Ph.D. in Management program directly, but feel free to reach out to talk research.\nCurrent RPI Students: Office hours are by appointment. Please email to schedule a meeting to discuss course material, research opportunities, or career advice.\nCapstone/Practicum Projects: If your company is interested in partnering on a capstone or MBA practicum project, please reach out to discuss potential collaborations.\n\n\n\n\nI actively collaborate with companies on:\n\nApplied research projects in AI, analytics, and digital transformation\nStudent capstone projects matching graduate students with real business challenges\nNSF I-Corps customer discovery and commercialization support\n\n\n\n\n\n\nNSF I-Corps\nLally School of Management\nRensselaer Polytechnic Institute"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "I welcome inquiries about research collaborations, speaking opportunities, student advising, and industry partnerships.\nEmail: kuruzj at rpi.edu\nOffice: Pittsburgh Building, Room 2206 Lally School of Management Rensselaer Polytechnic Institute 110 8th Street Troy, NY 12180"
+  },
+  {
+    "objectID": "contact.html#connect-online",
+    "href": "contact.html#connect-online",
+    "title": "Contact",
+    "section": "",
+    "text": "Bigger Matrix on Substack – Thoughts on AI, analytics, entrepreneurship, and the intersection of technology and business.\nLinkedIn – Connect professionally and stay updated on research, teaching, and industry activities."
+  },
+  {
+    "objectID": "contact.html#for-students",
+    "href": "contact.html#for-students",
+    "title": "Contact",
+    "section": "",
+    "text": "Prospective Ph.D. Students: I actively collaborate with doctoral students interested in research at the intersection of AI, digital platforms, and organizational outcomes. Please apply to the Lally School Ph.D. in Management program directly, but feel free to reach out to talk research.\nCurrent RPI Students: Office hours are by appointment. Please email to schedule a meeting to discuss course material, research opportunities, or career advice.\nCapstone/Practicum Projects: If your company is interested in partnering on a capstone or MBA practicum project, please reach out to discuss potential collaborations."
+  },
+  {
+    "objectID": "contact.html#for-industry-partners",
+    "href": "contact.html#for-industry-partners",
+    "title": "Contact",
+    "section": "",
+    "text": "I actively collaborate with companies on:\n\nApplied research projects in AI, analytics, and digital transformation\nStudent capstone projects matching graduate students with real business challenges\nNSF I-Corps customer discovery and commercialization support"
+  },
+  {
+    "objectID": "contact.html#institutional-links",
+    "href": "contact.html#institutional-links",
+    "title": "Contact",
+    "section": "",
+    "text": "NSF I-Corps\nLally School of Management\nRensselaer Polytechnic Institute"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jason Kuruzovich",
+    "section": "",
+    "text": "Jason Kuruzovich\nAssociate Professor of Business Analytics\nLally School of Management | Rensselaer Polytechnic Institute\n\nI research how artificial intelligence and digital technologies transform organizations, markets, and society. My work integrates perspectives from information systems, economics, and data science to advance understanding of AI fairness, digital platforms, and entrepreneurship ecosystems.\nCurrently serving as Area Head for Information Technology and Web Science and Principal Investigator for the NSF I-Corps Program at RPI.\n\n\nView Research Download CV\n\n\n\n\n\n\n\nFeatured Work\n\n\nAward-Winning Research\nReducing Subgroup Differences in Personnel Selection Through Machine Learning\n\nDemonstrates how oversampling techniques can mitigate algorithmic bias in applicant selection models. Received the 2025 Personnel Psychology Best Paper Award and SIOP Jeanneret Award.\n\nRead More\n\n\nCurrent Project\nChatMFG: Secure LLMs for Manufacturing\n\nBuilding secure, on-premise large language model solutions for manufacturers who cannot expose proprietary data to cloud platforms. Developed through RPI’s Center for Smart Convergent Manufacturing Systems.\n\nLearn More\n\n\nNSF I-Corps\nEntrepreneurship & Innovation at RPI\n\nLeading the NSF I-Corps program at RPI, helping researchers commercialize innovations through customer discovery and lean startup methodology. Over $700K in active funding.\n\nExplore Program\n\n\nTeaching\nApplied Machine Learning & Analytics\n\nTeaching courses that bridge technical rigor with strategic insight, from Introduction to Machine Learning Applications to MBA Practicum projects with industry partners.\n\nView Courses\n\n\nResearch Stream\nAlgorithmic Bias & AI Fairness\n\nInvestigating how AI systems can both encode and mitigate bias in organizational decision-making, with publications in top journals including Personnel Psychology and Journal of Applied Psychology.\n\nExplore Research\n\n\nNewsletter\nBigger Matrix on Substack\n\nThoughts on AI, analytics, entrepreneurship, and the intersection of technology and business. Subscribe for insights from the frontier of applied AI research.\n\nSubscribe\n\n\n\n\n\n\nRecent Recognition\n\n2025 Personnel Psychology Best Paper Award\n\n\n2025 SIOP Jeanneret Award\n\n\n2023 CIST Best Paper Award\n\n\n2018 Management Science Best Paper\n\n\n2009 ISR Best Published Paper Award"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research explores how artificial intelligence and digital technologies are transforming organizations, markets, and society. I focus on data-intensive, applied research that integrates theory building with real-world impact through collaborations with industry partners.\n\n\n\n\nI examine issues such as algorithmic bias, AI fairness, and human–AI collaboration in decision-making contexts. This stream of work includes collaborations with leading interviewing and selection platforms, exploring how machine learning models built on natural language and audio data can both encode and mitigate bias in organizational decision-making.\nKey questions: How can organizations leverage AI responsibly? What are the mechanisms through which language-based AI models may inadvertently reproduce demographic and linguistic biases? How can we develop methodological innovations to reduce such bias?\n\n\n\nI study how information systems and AI shape competition, transparency, and user behavior in online marketplaces. This body of work developed foundational insights into how information availability and search costs shape both buyer and seller behavior.\nKey questions: How do online platforms alter market efficiency? How do sellers strategically exploit information asymmetries? How do platform transparency policies affect user contributions?\n\n\n\nI investigate how digital tools and data enable entrepreneurial adaptation and ecosystem evolution. Building on my decade-long leadership of the Severino Center for Technological Entrepreneurship, I examine how entrepreneurs leverage digital tools to navigate uncertainty, pivot business models, and engage with innovation ecosystems.\nKey questions: How do government grants shape entrepreneurial ecosystems? How can large language models help measure startup pivots? How does social media affect venture financing?\n\n\n\n\n\n\n\n\n\nReducing Subgroup Differences in Personnel Selection Through the Application of Machine Learning\n\n\nZhang, N., Wang, M., Xu, H., Koenig, N., Hickman, L., Kuruzovich, J., Ng, V., Arhin, K., Wilson, D., Song, Q.C., Tang, C., Alexander, L., Kim, Y.\n\n\nPersonnel Psychology, 2023\n\n\n2025 Personnel Psychology Best Paper Award | 2025 SIOP Jeanneret Award | Top 10 Most-Cited Papers 2023\n\n\n\n\nOnline Auctions and Multichannel Retailing\n\n\nKuruzovich, J., Etzion, H.\n\n\nManagement Science, 64(6), 2473-2972, 2018\n\n\n2018 Lally School of Management Best Published Paper Award\n\n\n\n\nMarketspace or Marketplace? Online Information Search and Channel Outcomes in Auto Retailing\n\n\nKuruzovich, J., Viswanathan, S., Agarwal, R., Gosain, S.\n\n\nInformation Systems Research, 19(2), 182-201, 2008\n\n\n2009 ISS/ISR Best Published Paper Award\n\n\n\n\n\n\n\nWhither Bias Goes, I Will Go: An Integrative, Systematic Review of Algorithmic Bias Mitigation\n\n\nHickman, L., Huynh, C., Gass, J., Booth, B., Kuruzovich, J., Tay, L.\n\n\nJournal of Applied Psychology, 2024\n\n\n\n\nReview Moderation Transparency and User-Generated Content: Evidence from a Natural Experiment\n\n\nJiang, L., Ravichandran, T., Kuruzovich, J.\n\n\nMIS Quarterly, 2023\n\n\n\n\nTelecommuting and Job Performance: Role of Technology and Social Exchange\n\n\nKuruzovich, J., Paczkowski, W.F., Golden, T., Goodarzi, S., Venkatesh, V.\n\n\nInformation and Management, 58(3), 2021\n\n\n\n\nSupervised Mixture of Experts Models for Population Health\n\n\nShou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., Kuruzovich, J., Bennett, K.\n\n\nMethods, 179(1), 101-110, 2020\n\n\n\n\n\n\n\nSeller Search and Market Outcomes in Online Auctions\n\n\nKuruzovich, J., Viswanathan, S., Agarwal, R.\n\n\nManagement Science, 56(10), 1702-1717, 2010\n\n\n\n\nOnline Infomediaries and Price Discrimination: Evidence from the Automotive Retailing Sector\n\n\nViswanathan, S., Kuruzovich, J., Gosain, S., Agarwal, R.\n\n\nJournal of Marketing, 71(3), 89-107, 2007\n\n\n\n\nExpectation Confirmation: An Examination of Three Competing Models\n\n\nBrown, S., Venkatesh, V., Kuruzovich, J., Massey, A.P.\n\n\nOrganizational Behavior and Human Decision Processes, 105(1), 52-66, 2008\n\n\n\n\n\n\n\n\nArhin, K., Hickman, L., & Kuruzovich, J. “You Don’t Sound Black: Codeswitching, AI, and the Use of HR Platforms in Candidate Selection.” 3rd Round at JAIS\nZandvakili, R., Kuruzovich, J., An, J., Liu, J., Liu, D. “Onboarding Players via Bots? A Field Experiment in a Team-based Competitive Multiplayer Game.” Revise and Resubmit at Information Systems Research\nArhin, K., Kuruzovich, J., Hickman, L. “Learning from Exemplar Answers: Improving Algorithmic Fairness in Personnel Selection Through Loose Coupling.” (Best Paper Award, INFORMS CIST Conference)\n\n\n\n\n\nFor a complete list of publications, presentations, and grants, please download my CV."
+  },
+  {
+    "objectID": "research.html#research-areas",
+    "href": "research.html#research-areas",
+    "title": "Research",
+    "section": "",
+    "text": "I examine issues such as algorithmic bias, AI fairness, and human–AI collaboration in decision-making contexts. This stream of work includes collaborations with leading interviewing and selection platforms, exploring how machine learning models built on natural language and audio data can both encode and mitigate bias in organizational decision-making.\nKey questions: How can organizations leverage AI responsibly? What are the mechanisms through which language-based AI models may inadvertently reproduce demographic and linguistic biases? How can we develop methodological innovations to reduce such bias?\n\n\n\nI study how information systems and AI shape competition, transparency, and user behavior in online marketplaces. This body of work developed foundational insights into how information availability and search costs shape both buyer and seller behavior.\nKey questions: How do online platforms alter market efficiency? How do sellers strategically exploit information asymmetries? How do platform transparency policies affect user contributions?\n\n\n\nI investigate how digital tools and data enable entrepreneurial adaptation and ecosystem evolution. Building on my decade-long leadership of the Severino Center for Technological Entrepreneurship, I examine how entrepreneurs leverage digital tools to navigate uncertainty, pivot business models, and engage with innovation ecosystems.\nKey questions: How do government grants shape entrepreneurial ecosystems? How can large language models help measure startup pivots? How does social media affect venture financing?"
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "",
+    "text": "Reducing Subgroup Differences in Personnel Selection Through the Application of Machine Learning\n\n\nZhang, N., Wang, M., Xu, H., Koenig, N., Hickman, L., Kuruzovich, J., Ng, V., Arhin, K., Wilson, D., Song, Q.C., Tang, C., Alexander, L., Kim, Y.\n\n\nPersonnel Psychology, 2023\n\n\n2025 Personnel Psychology Best Paper Award | 2025 SIOP Jeanneret Award | Top 10 Most-Cited Papers 2023\n\n\n\n\nOnline Auctions and Multichannel Retailing\n\n\nKuruzovich, J., Etzion, H.\n\n\nManagement Science, 64(6), 2473-2972, 2018\n\n\n2018 Lally School of Management Best Published Paper Award\n\n\n\n\nMarketspace or Marketplace? Online Information Search and Channel Outcomes in Auto Retailing\n\n\nKuruzovich, J., Viswanathan, S., Agarwal, R., Gosain, S.\n\n\nInformation Systems Research, 19(2), 182-201, 2008\n\n\n2009 ISS/ISR Best Published Paper Award\n\n\n\n\n\n\n\nWhither Bias Goes, I Will Go: An Integrative, Systematic Review of Algorithmic Bias Mitigation\n\n\nHickman, L., Huynh, C., Gass, J., Booth, B., Kuruzovich, J., Tay, L.\n\n\nJournal of Applied Psychology, 2024\n\n\n\n\nReview Moderation Transparency and User-Generated Content: Evidence from a Natural Experiment\n\n\nJiang, L., Ravichandran, T., Kuruzovich, J.\n\n\nMIS Quarterly, 2023\n\n\n\n\nTelecommuting and Job Performance: Role of Technology and Social Exchange\n\n\nKuruzovich, J., Paczkowski, W.F., Golden, T., Goodarzi, S., Venkatesh, V.\n\n\nInformation and Management, 58(3), 2021\n\n\n\n\nSupervised Mixture of Experts Models for Population Health\n\n\nShou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., Kuruzovich, J., Bennett, K.\n\n\nMethods, 179(1), 101-110, 2020\n\n\n\n\n\n\n\nSeller Search and Market Outcomes in Online Auctions\n\n\nKuruzovich, J., Viswanathan, S., Agarwal, R.\n\n\nManagement Science, 56(10), 1702-1717, 2010\n\n\n\n\nOnline Infomediaries and Price Discrimination: Evidence from the Automotive Retailing Sector\n\n\nViswanathan, S., Kuruzovich, J., Gosain, S., Agarwal, R.\n\n\nJournal of Marketing, 71(3), 89-107, 2007\n\n\n\n\nExpectation Confirmation: An Examination of Three Competing Models\n\n\nBrown, S., Venkatesh, V., Kuruzovich, J., Massey, A.P.\n\n\nOrganizational Behavior and Human Decision Processes, 105(1), 52-66, 2008"
+  },
+  {
+    "objectID": "research.html#working-papers-papers-under-review",
+    "href": "research.html#working-papers-papers-under-review",
+    "title": "Research",
+    "section": "",
+    "text": "Arhin, K., Hickman, L., & Kuruzovich, J. “You Don’t Sound Black: Codeswitching, AI, and the Use of HR Platforms in Candidate Selection.” 3rd Round at JAIS\nZandvakili, R., Kuruzovich, J., An, J., Liu, J., Liu, D. “Onboarding Players via Bots? A Field Experiment in a Team-based Competitive Multiplayer Game.” Revise and Resubmit at Information Systems Research\nArhin, K., Kuruzovich, J., Hickman, L. “Learning from Exemplar Answers: Improving Algorithmic Fairness in Personnel Selection Through Loose Coupling.” (Best Paper Award, INFORMS CIST Conference)"
+  },
+  {
+    "objectID": "research.html#full-cv",
+    "href": "research.html#full-cv",
+    "title": "Research",
+    "section": "",
+    "text": "For a complete list of publications, presentations, and grants, please download my CV."
+  }
+]

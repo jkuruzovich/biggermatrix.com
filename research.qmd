@@ -1,0 +1,196 @@
+---
+title: "Research"
+pagetitle: "Research | Jason Kuruzovich"
+format:
+  html:
+    toc: true
+---
+
+::: {.page-content}
+
+My research explores how artificial intelligence and digital technologies are transforming organizations, markets, and society. I focus on data-intensive, applied research that integrates theory building with real-world impact through collaborations with industry partners.
+
+## Research Areas
+
+::: {.research-area}
+### Applied Artificial Intelligence {#ai-fairness}
+
+I examine issues such as algorithmic bias, AI fairness, and human--AI collaboration in decision-making contexts. This stream of work includes collaborations with leading interviewing and selection platforms, exploring how machine learning models built on natural language and audio data can both encode and mitigate bias in organizational decision-making.
+
+**Key questions:** How can organizations leverage AI responsibly? What are the mechanisms through which language-based AI models may inadvertently reproduce demographic and linguistic biases? How can we develop methodological innovations to reduce such bias?
+:::
+
+::: {.research-area}
+### Digital Platforms & Online Markets
+
+I study how information systems and AI shape competition, transparency, and user behavior in online marketplaces. This body of work developed foundational insights into how information availability and search costs shape both buyer and seller behavior.
+
+**Key questions:** How do online platforms alter market efficiency? How do sellers strategically exploit information asymmetries? How do platform transparency policies affect user contributions?
+:::
+
+::: {.research-area}
+### Entrepreneurship & Innovation Ecosystems
+
+I investigate how digital tools and data enable entrepreneurial adaptation and ecosystem evolution. Building on my decade-long leadership of the Severino Center for Technological Entrepreneurship, I examine how entrepreneurs leverage digital tools to navigate uncertainty, pivot business models, and engage with innovation ecosystems.
+
+**Key questions:** How do government grants shape entrepreneurial ecosystems? How can large language models help measure startup pivots? How does social media affect venture financing?
+:::
+
+---
+
+## Selected Publications
+
+### Award-Winning Research
+
+::: {.publication}
+::: {.pub-title}
+Reducing Subgroup Differences in Personnel Selection Through the Application of Machine Learning
+:::
+::: {.pub-authors}
+Zhang, N., Wang, M., Xu, H., Koenig, N., Hickman, L., **Kuruzovich, J.**, Ng, V., Arhin, K., Wilson, D., Song, Q.C., Tang, C., Alexander, L., Kim, Y.
+:::
+::: {.pub-venue}
+Personnel Psychology, 2023
+:::
+::: {.pub-award}
+2025 Personnel Psychology Best Paper Award | 2025 SIOP Jeanneret Award | Top 10 Most-Cited Papers 2023
+:::
+:::
+
+::: {.publication}
+::: {.pub-title}
+Online Auctions and Multichannel Retailing
+:::
+::: {.pub-authors}
+**Kuruzovich, J.**, Etzion, H.
+:::
+::: {.pub-venue}
+Management Science, 64(6), 2473-2972, 2018
+:::
+::: {.pub-award}
+2018 Lally School of Management Best Published Paper Award
+:::
+:::
+
+::: {.publication}
+::: {.pub-title}
+Marketspace or Marketplace? Online Information Search and Channel Outcomes in Auto Retailing
+:::
+::: {.pub-authors}
+**Kuruzovich, J.**, Viswanathan, S., Agarwal, R., Gosain, S.
+:::
+::: {.pub-venue}
+Information Systems Research, 19(2), 182-201, 2008
+:::
+::: {.pub-award}
+2009 ISS/ISR Best Published Paper Award
+:::
+:::
+
+### Recent Publications
+
+::: {.publication}
+::: {.pub-title}
+Whither Bias Goes, I Will Go: An Integrative, Systematic Review of Algorithmic Bias Mitigation
+:::
+::: {.pub-authors}
+Hickman, L., Huynh, C., Gass, J., Booth, B., **Kuruzovich, J.**, Tay, L.
+:::
+::: {.pub-venue}
+Journal of Applied Psychology, 2024
+:::
+:::
+
+::: {.publication}
+::: {.pub-title}
+Review Moderation Transparency and User-Generated Content: Evidence from a Natural Experiment
+:::
+::: {.pub-authors}
+Jiang, L., Ravichandran, T., **Kuruzovich, J.**
+:::
+::: {.pub-venue}
+MIS Quarterly, 2023
+:::
+:::
+
+::: {.publication}
+::: {.pub-title}
+Telecommuting and Job Performance: Role of Technology and Social Exchange
+:::
+::: {.pub-authors}
+**Kuruzovich, J.**, Paczkowski, W.F., Golden, T., Goodarzi, S., Venkatesh, V.
+:::
+::: {.pub-venue}
+Information and Management, 58(3), 2021
+:::
+:::
+
+::: {.publication}
+::: {.pub-title}
+Supervised Mixture of Experts Models for Population Health
+:::
+::: {.pub-authors}
+Shou, X., Mavroudeas, G., Magdon-Ismail, M., Figueroa, J., **Kuruzovich, J.**, Bennett, K.
+:::
+::: {.pub-venue}
+Methods, 179(1), 101-110, 2020
+:::
+:::
+
+### Foundational Work
+
+::: {.publication}
+::: {.pub-title}
+Seller Search and Market Outcomes in Online Auctions
+:::
+::: {.pub-authors}
+**Kuruzovich, J.**, Viswanathan, S., Agarwal, R.
+:::
+::: {.pub-venue}
+Management Science, 56(10), 1702-1717, 2010
+:::
+:::
+
+::: {.publication}
+::: {.pub-title}
+Online Infomediaries and Price Discrimination: Evidence from the Automotive Retailing Sector
+:::
+::: {.pub-authors}
+Viswanathan, S., **Kuruzovich, J.**, Gosain, S., Agarwal, R.
+:::
+::: {.pub-venue}
+Journal of Marketing, 71(3), 89-107, 2007
+:::
+:::
+
+::: {.publication}
+::: {.pub-title}
+Expectation Confirmation: An Examination of Three Competing Models
+:::
+::: {.pub-authors}
+Brown, S., Venkatesh, V., **Kuruzovich, J.**, Massey, A.P.
+:::
+::: {.pub-venue}
+Organizational Behavior and Human Decision Processes, 105(1), 52-66, 2008
+:::
+:::
+
+---
+
+## Working Papers & Papers Under Review
+
+- **Arhin, K., Hickman, L., & Kuruzovich, J.** "You Don't Sound Black: Codeswitching, AI, and the Use of HR Platforms in Candidate Selection." *3rd Round at JAIS*
+
+- **Zandvakili, R., Kuruzovich, J., An, J., Liu, J., Liu, D.** "Onboarding Players via Bots? A Field Experiment in a Team-based Competitive Multiplayer Game." *Revise and Resubmit at Information Systems Research*
+
+- **Arhin, K., Kuruzovich, J., Hickman, L.** "Learning from Exemplar Answers: Improving Algorithmic Fairness in Personnel Selection Through Loose Coupling." *(Best Paper Award, INFORMS CIST Conference)*
+
+---
+
+
+
+## Full CV
+
+For a complete list of publications, presentations, and grants, please [download my CV](/static/1_cv_kuruzovich_2025_12_v3.pdf).
+
+:::

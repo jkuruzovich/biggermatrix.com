@@ -1,0 +1,65 @@
+---
+title: "About"
+pagetitle: "About | Jason Kuruzovich"
+format:
+  html:
+    toc: true
+---
+
+::: {.page-content}
+
+## Biography
+
+Jason Kuruzovich is an Associate Professor of Business Analytics at the Lally School of Management at Rensselaer Polytechnic Institute (RPI), where his research explores the intersection of information systems, computer science, and the practical challenges businesses face in a data-driven world. His work examines how individuals and organizations derive value from information systems, artificial intelligence (AI), and digital transformation, with a particular emphasis on the societal and organizational implications of algorithmic decision-making.
+
+Professor Kuruzovich's research has been published in leading journals across multiple disciplines, including *Management Science*, *Information Systems Research*, *MIS Quarterly*, the *Journal of Marketing*, and the *Journal of Applied Psychology*. His studies have addressed topics such as online platforms and digital marketplaces, algorithmic bias in AI-based decision systems, and the evolving dynamics of innovation and entrepreneurship ecosystems.
+
+## Current Focus
+
+Recent work focuses on applied artificial intelligence and fairness in machine learning, including collaborations with technology and analytics firms. His coauthored paper, "Reducing Subgroup Differences in Personnel Selection Through the Application of Machine Learning," received the 2025 Personnel Psychology Best Paper Award, the SIOP Jeanneret Award for Excellence in the Study of Individual or Group Assessment, and recognition as one of the ten most-cited papers in Personnel Psychology in 2023.
+
+Another study, "Whither Bias Goes, I Will Go: An Integrative, Systematic Review of Algorithmic Bias Mitigation," published in the *Journal of Applied Psychology*, offers a comprehensive framework for understanding algorithmic fairness across organizational and computational contexts.
+
+## Entrepreneurship & Innovation
+
+His ongoing research in entrepreneurship and innovation builds on his decade-long leadership of the **Severino Center for Technological Entrepreneurship**, where he helped foster the startup ecosystem in New York's Capital Region through programs such as Startup Tech Valley and RPI's Change the World Challenge. This practical engagement continues through his role as Principal Investigator for the **NSF I-Corps Program at RPI** and the **New York State Incubator Grant**, initiatives that help early-stage entrepreneurs commercialize research-based innovations and bridge academic insight with startup success.
+
+## Teaching Philosophy
+
+In teaching, Professor Kuruzovich emphasizes applied analytics and experiential learning. His courses---ranging from Introduction to Machine Learning Applications to the MBA Practicum in Management---integrate technical skills with strategic insight, guiding students through complex, data-driven problems faced by real companies. These courses provide students with hands-on experience addressing industry challenges through rigorous analysis and innovative solutions.
+
+His pedagogical approach combines theory, computation, and storytelling to help students craft professional narratives grounded in applied success.
+
+## Leadership & Service
+
+Over nearly two decades at RPI, Professor Kuruzovich has taught at the undergraduate, graduate, and executive levels, led multiple academic programs, and mentored numerous Ph.D. students who have gone on to successful academic and industry careers.
+
+**Current Administrative Roles:**
+
+- **Area Head**, Information Technology and Web Science (July 2025 -- Present)
+- **Area Head**, Information Systems, Operations, Supply Chain, Marketing, Business Economics, and Business Analytics, Lally School of Management (July 2024 -- Present)
+- **Principal Investigator**, NSF I-Corps Program at RPI (February 2016 -- Present)
+
+**Previous Leadership:**
+
+- Director, Lally School Ph.D. Program (July 2022 -- July 2023)
+- Director, Severino Center for Technological Entrepreneurship (July 2013 -- July 2023)
+
+## Education
+
+**Ph.D., Information Systems**
+University of Maryland, Robert H. Smith School of Business, 2006
+
+**B.S., Chemical Engineering** *(Cum Laude)*
+Lafayette College, 1996
+
+## Industry Experience
+
+Before entering academia, Professor Kuruzovich worked in industry as a chemical engineer, SAP implementation consultant, and business systems analyst at companies including Air Products and Chemicals, Johnson & Johnson, and Streamline.com. He also founded getOUT4 and served as a consulting data scientist with Defacto Global Inc. and Mind Genomics Inc.
+
+
+## Full CV
+
+For a complete list of publications, presentations, and grants, please [download my CV](/static/1_cv_kuruzovich_2025_12_v3.pdf).
+
+:::

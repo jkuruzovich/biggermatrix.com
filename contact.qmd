@@ -1,0 +1,63 @@
+---
+title: "Contact"
+pagetitle: "Contact | Jason Kuruzovich"
+format:
+  html:
+    toc: false
+---
+
+::: {.page-content}
+
+## Get in Touch
+
+I welcome inquiries about research collaborations, speaking opportunities, student advising, and industry partnerships.
+
+**Email:** kuruzj at rpi.edu
+
+**Office:**
+Pittsburgh Building, Room 2206
+Lally School of Management
+Rensselaer Polytechnic Institute
+110 8th Street
+Troy, NY 12180
+
+---
+
+## Connect Online
+
+- **[Bigger Matrix on Substack](https://biggermatrix.substack.com){target="_blank"}** -- Thoughts on AI, analytics, entrepreneurship, and the intersection of technology and business.
+- **[LinkedIn](https://www.linkedin.com/in/jasonkuruzovich/){target="_blank"}** -- Connect professionally and stay updated on research, teaching, and industry activities.
+
+---
+
+## For Students
+
+**Prospective Ph.D. Students:**
+I actively collaborate with doctoral students interested in research at the intersection of AI, digital platforms, and organizational outcomes. Please apply to the [Lally School Ph.D. in Management program](https://lally.rpi.edu/programs/phd-management-stem-designated) directly, but feel free to reach out to talk research.
+
+**Current RPI Students:**
+Office hours are by appointment. Please email to schedule a meeting to discuss course material, research opportunities, or career advice.
+
+**Capstone/Practicum Projects:**
+If your company is interested in partnering on a capstone or MBA practicum project, please reach out to discuss potential collaborations.
+
+---
+
+## For Industry Partners
+
+I actively collaborate with companies on:
+
+- **Applied research projects** in AI, analytics, and digital transformation
+- **Student capstone projects** matching graduate students with real business challenges
+- **NSF I-Corps** customer discovery and commercialization support
+
+
+---
+
+## Institutional Links
+- [NSF I-Corps](https://severinocenter.rpi.edu/support/i-want-learn/nsf-innovation-corps-i-corps-program)
+- [Lally School of Management](https://lallyschool.rpi.edu/)
+- [Rensselaer Polytechnic Institute](https://rpi.edu/)
+
+
+:::

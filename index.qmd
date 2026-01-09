@@ -1,0 +1,147 @@
+---
+pagetitle: "Jason Kuruzovich | Business Analytics & AI"
+format:
+  html:
+    toc: false
+---
+
+::: {.hero-section}
+::: {.container}
+::: {.two-column}
+
+![](static/profile.JPG){.profile-image fig-alt="Jason Kuruzovich"}
+
+::: {.hero-content}
+[Jason Kuruzovich]{.hero-title}
+
+[Associate Professor of Business Analytics]{.hero-subtitle}
+
+[Lally School of Management | Rensselaer Polytechnic Institute]{.hero-affiliation}
+
+::: {.hero-description}
+I research how artificial intelligence and digital technologies transform organizations, markets, and society. My work integrates perspectives from information systems, economics, and data science to advance understanding of AI fairness, digital platforms, and entrepreneurship ecosystems.
+
+Currently serving as Area Head for Information Technology and Web Science and Principal Investigator for the NSF I-Corps Program at RPI.
+:::
+
+::: {style="margin-top: 1.5rem;"}
+[View Research](/research.qmd){.btn .btn-primary style="margin-right: 0.75rem;"}
+[Download CV](/static/1_cv_kuruzovich_2025_12_v3.pdf){.btn .btn-outline}
+:::
+
+:::
+:::
+:::
+:::
+
+::: {.featured-section}
+::: {.container}
+
+[Featured Work]{.section-title}
+
+::: {.card-grid}
+
+::: {.featured-card}
+[Award-Winning Research]{.card-label}
+
+[Reducing Subgroup Differences in Personnel Selection Through Machine Learning]{.card-title}
+
+::: {.card-description}
+Demonstrates how oversampling techniques can mitigate algorithmic bias in applicant selection models. Received the 2025 Personnel Psychology Best Paper Award and SIOP Jeanneret Award.
+:::
+
+[Read More](/research.qmd)
+:::
+
+::: {.featured-card}
+[Current Project]{.card-label}
+
+[ChatMFG: Secure LLMs for Manufacturing]{.card-title}
+
+::: {.card-description}
+Building secure, on-premise large language model solutions for manufacturers who cannot expose proprietary data to cloud platforms. Developed through RPI's Center for Smart Convergent Manufacturing Systems.
+:::
+
+[Learn More](/projects.qmd)
+:::
+
+::: {.featured-card}
+[NSF I-Corps]{.card-label}
+
+[Entrepreneurship & Innovation at RPI]{.card-title}
+
+::: {.card-description}
+Leading the NSF I-Corps program at RPI, helping researchers commercialize innovations through customer discovery and lean startup methodology. Over $700K in active funding.
+:::
+
+[Explore Program](/teaching.qmd#i-corps)
+:::
+
+::: {.featured-card}
+[Teaching]{.card-label}
+
+[Applied Machine Learning & Analytics]{.card-title}
+
+::: {.card-description}
+Teaching courses that bridge technical rigor with strategic insight, from Introduction to Machine Learning Applications to MBA Practicum projects with industry partners.
+:::
+
+[View Courses](/teaching.qmd)
+:::
+
+::: {.featured-card}
+[Research Stream]{.card-label}
+
+[Algorithmic Bias & AI Fairness]{.card-title}
+
+::: {.card-description}
+Investigating how AI systems can both encode and mitigate bias in organizational decision-making, with publications in top journals including Personnel Psychology and Journal of Applied Psychology.
+:::
+
+[Explore Research](/research.qmd#ai-fairness)
+:::
+
+::: {.featured-card}
+[Newsletter]{.card-label}
+
+[Bigger Matrix on Substack]{.card-title}
+
+::: {.card-description}
+Thoughts on AI, analytics, entrepreneurship, and the intersection of technology and business. Subscribe for insights from the frontier of applied AI research.
+:::
+
+[Subscribe](https://biggermatrix.substack.com){target="_blank"}
+:::
+
+:::
+
+:::
+:::
+
+::: {.featured-section style="background: #f7fafc;"}
+::: {.container}
+
+[Recent Recognition]{.section-title}
+
+::: {.award-badge}
+2025 Personnel Psychology Best Paper Award
+:::
+
+::: {.award-badge}
+2025 SIOP Jeanneret Award
+:::
+
+::: {.award-badge}
+2023 CIST Best Paper Award
+:::
+
+::: {.award-badge}
+2018 Management Science Best Paper
+:::
+
+::: {.award-badge}
+2009 ISR Best Published Paper Award
+:::
+
+:::
+:::

@@ -1,0 +1,70 @@
+---
+title: "Projects"
+pagetitle: "Projects | Jason Kuruzovich"
+format:
+  html:
+    toc: true
+---
+
+::: {.page-content}
+
+## ChatMFG: Secure LLMs for Manufacturing
+
+ChatMFG addresses a critical gap in AI adoption for manufacturers who recognize the transformative potential of large language models but cannot adopt cloud-based solutions due to data security and intellectual property concerns.
+
+The platform enables manufacturers to deploy advanced LLM capabilities entirely within their own secure environments, featuring manufacturing-optimized models, retrieval-augmented generation (RAG) for proprietary documents, and human-in-the-loop fine-tuning.
+
+Developed in collaboration with RPI's Center for Smart Convergent Manufacturing Systems (CSCMS) and industry partner Sono-Tek Corporation.
+
+---
+
+## Startup Tech Valley
+
+[Startup Tech Valley](https://www.startuptechvalley.org) is a regional initiative fostering the entrepreneurship and innovation ecosystem in New York's Tech Valley region. The program connects startups with resources, mentors, investors, and economic development organizations to accelerate growth and commercialization.
+
+---
+
+## Industry Collaborations
+
+Through my teaching and research, I maintain active collaborations with companies across multiple sectors:
+
+**Analytics & AI -- Enterprise Partners:**
+Amazon, Credit Suisse, Invesco, GlobalFoundries, Johnson & Johnson, CDPHP
+
+**Startups -- Emerging Technology:**
+Velan Studios, ACV Auctions, P1ston, BQP, Mind Genomics, Defacto Global
+
+**Research Centers -- Academic Partnerships:**
+Center for Smart Convergent Manufacturing Systems (CSCMS), NYS Center of Excellence in Data Science
+
+These partnerships generate unique datasets, theoretically significant research questions, and meaningful student experiences through capstone projects and applied research.
+
+---
+
+## Past Ventures
+
+### getOUT4 (2013-2015)
+
+Founded and served as CEO of getOUT4, a technology startup focused on social coordination and local event discovery. The experience informed my research on entrepreneurship ecosystems and my approach to teaching entrepreneurship.
+
+### AnalyticsDojo
+
+Open-source educational platform providing Jupyter-based learning materials for analytics and data science. Materials are used in multiple courses and have been adopted by other institutions.
+
+- [introml.analyticsdojo.com](https://introml.analyticsdojo.com) -- Machine Learning course materials
+- [quantum.analyticsdojo.com](https://quantum.analyticsdojo.com) -- Quantum optimization materials
+
+---
+
+## Severino Center (Past)
+
+From 2013-2023, I directed the **Severino Center for Technological Entrepreneurship** at RPI, where I:
+
+- Led programs supporting student ventures and early-stage startups
+- Developed **Startup Tech Valley** to foster the regional innovation ecosystem
+- Managed RPI's **Change the World Challenge** business plan competition
+- Built partnerships with regional accelerators, investors, and economic development organizations
+
+This practical engagement continues through my role in the NSF I-Corps Program and the NY State Incubator Grant.
+
+:::

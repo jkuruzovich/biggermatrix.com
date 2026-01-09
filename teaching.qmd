@@ -1,0 +1,90 @@
+---
+title: "Teaching"
+pagetitle: "Teaching | Jason Kuruzovich"
+format:
+  html:
+    toc: true
+---
+
+::: {.page-content}
+
+Over the past two decades at RPI, I've taught an unusually broad range of topics---database design, quantitative methods, internet marketing, entrepreneurship, applied machine learning, and applied projects. My teaching philosophy adapts to the type of course, but the central theme remains constant: fundamental shifts in the economics of data creation, storage, and use are transforming individuals, organizations, and markets.
+
+## Current Courses
+
+::: {.course-card}
+::: {.course-code}
+MGMT6841
+:::
+::: {.course-title}
+Practicum in Management (MBA Project Course)
+:::
+::: {.course-description}
+Applied project course where MBA students work on real data science and analytics challenges with industry partners. Students develop compelling professional narratives through hands-on problem-solving.
+:::
+:::
+
+::: {.course-card}
+::: {.course-code}
+MGMT6445 / MGMT6790
+:::
+::: {.course-title}
+Business Analytics Capstone
+:::
+::: {.course-description}
+Capstone experience for MS Business Analytics students, partnering with companies to address complex, data-driven problems. Each semester features 4-8 projects from a diverse mix of established firms and startups.
+:::
+:::
+
+::: {.course-card}
+::: {.course-code}
+MGMT4530/6630
+:::
+::: {.course-title}
+Starting a New Venture
+:::
+::: {.course-description}
+Entrepreneurship course covering opportunity identification, customer discovery, business model development, and go-to-market strategy for technology-based ventures.
+:::
+:::
+
+::: {.course-card}
+::: {.course-code}
+ITWS4500
+:::
+::: {.course-title}
+Agentic AI and Web Systems Development (Spring 2026)
+:::
+::: {.course-description}
+New course introducing students to cutting-edge approaches in cloud deployment and agentic AI development, ensuring ITWS coursework remains current with modern techniques.
+:::
+:::
+
+## Past Courses
+
+::: {.course-card}
+::: {.course-code}
+MGMT4190/6560
+:::
+::: {.course-title}
+Introduction to Machine Learning Applications
+:::
+::: {.course-description}
+Developed core course taking students from Python basics through deep learning applications. Now taught by multiple instructors across Business Analytics, Supply Chain, and Finance programs. Course materials available at [introml.analyticsdojo.com](https://introml.analyticsdojo.com).
+:::
+:::
+
+::: {.course-card}
+::: {.course-code}
+ITWS
+:::
+::: {.course-title}
+Quantum-Inspired Optimization (Fall 2025)
+:::
+::: {.course-description}
+One-credit pilot course developed in collaboration with BQP, engaging students in exploring quantum-inspired optimization. Materials at [quantum.analyticsdojo.com](https://quantum.analyticsdojo.com).
+:::
+:::
+
+:::
+

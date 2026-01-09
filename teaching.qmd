@@ -56,7 +56,7 @@ ITWS4500
 Agentic AI and Web Systems Development (Spring 2026)
 :::
 ::: {.course-description}
-New course introducing students to cutting-edge approaches in cloud deployment and agentic AI development, ensuring ITWS coursework remains current with modern techniques.
+New course introducing students to cutting-edge approaches in cloud deployment and agentic AI development, ensuring ITWS coursework remains current with modern techniques. Course materials available at [web.biggermatrix.com](https://web.biggermatrix.com).
 :::
 :::
 

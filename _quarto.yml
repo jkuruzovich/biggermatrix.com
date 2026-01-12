@@ -5,6 +5,9 @@ project:
     - "*.qmd"
     - "!README.md"
     - "!reardme.md"
+  resources:
+    - "static/**"
+    - "CNAME"
 
 website:
   title: "Jason Kuruzovich"
